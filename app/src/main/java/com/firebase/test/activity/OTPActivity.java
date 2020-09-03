@@ -12,6 +12,7 @@ import android.widget.EditText;
 import android.widget.LinearLayout;
 import android.widget.TextView;
 
+import com.firebase.test.R;
 import com.firebase.test.utils.AndroidLogger;
 import com.firebase.test.utils.CommonUtils;
 import com.google.android.gms.tasks.OnCompleteListener;
@@ -24,7 +25,6 @@ import com.google.firebase.auth.FirebaseAuthInvalidCredentialsException;
 import com.google.firebase.auth.FirebaseUser;
 import com.google.firebase.auth.PhoneAuthCredential;
 import com.google.firebase.auth.PhoneAuthProvider;
-import com.sci.chamunda.R;
 
 import java.util.concurrent.TimeUnit;
 

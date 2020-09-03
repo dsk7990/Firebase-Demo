@@ -1,4 +1,4 @@
-package com.sci.chamunda;
+package com.firebase.test;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;

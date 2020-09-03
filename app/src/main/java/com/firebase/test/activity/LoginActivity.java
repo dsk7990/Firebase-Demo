@@ -10,10 +10,10 @@ import android.widget.EditText;
 import android.widget.LinearLayout;
 import android.widget.TextView;
 
+import com.firebase.test.R;
 import com.firebase.test.utils.AndroidLogger;
 import com.firebase.test.utils.CommonUtils;
 import com.hbb20.CountryCodePicker;
-import com.sci.chamunda.R;
 
 import butterknife.BindView;
 import butterknife.ButterKnife;

@@ -8,8 +8,8 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.ImageView;
 
+import com.firebase.test.R;
 import com.firebase.test.activity.GalleryActivity;
-import com.sci.chamunda.R;
 import com.squareup.picasso.Picasso;
 
 import java.util.List;

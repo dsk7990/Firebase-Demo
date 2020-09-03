@@ -1,4 +1,4 @@
-package com.sci.chamunda;
+package com.firebase.test;
 
 import org.junit.Test;
 

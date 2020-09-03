@@ -6,7 +6,7 @@ import android.support.v7.widget.Toolbar;
 import android.view.MenuItem;
 import android.widget.ImageView;
 
-import com.sci.chamunda.R;
+import com.firebase.test.R;
 import com.squareup.picasso.Picasso;
 
 import butterknife.BindView;
